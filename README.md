@@ -82,10 +82,5 @@ Además del desarrollo de software, ofrezco servicios profesionales de informát
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alemolamg&theme=github_dark" alt="GitHub Stats" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alemolamg&theme=github_dark" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alemolamg&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
