@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://alemolamg.com"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="mailto:alemolamg@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="mailto:hello@alemolamg.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
   <a href="https://linkedin.com/in/alemolamg"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/alemolamg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
@@ -17,7 +17,7 @@ Soy un **programador** y **entusiasta de la tecnología** con base en **España*
 - 🌱 En constante aprendizaje: actualmente explorando IA y arquitecturas modernas
 - 🛠️ Ofrezco **servicios IT**: soporte técnico, mantenimiento de sistemas y desarrollo a medida
 - 🎓 Formación en desarrollo de aplicaciones web (DAW) e informática
-- 📍 España · alemolamg@outlook.com
+- 📍 Málaga & Córdoba, España · hello@alemolamg.com
 
 ---
 
@@ -40,6 +40,12 @@ Soy un **programador** y **entusiasta de la tecnología** con base en **España*
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Bases de datos
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -69,15 +75,15 @@ Además del desarrollo de software, ofrezco servicios profesionales de informát
 - 🗄️ **Gestión de bases de datos** y configuración de servidores
 - 🔒 **Seguridad informática** básica y buenas prácticas
 
-> 📩 ¿Interesado? Contáctame en [alemolamg@outlook.com](mailto:alemolamg@outlook.com) o visita [alemolamg.com](https://alemolamg.com)
+> 📩 ¿Interesado? Contáctame en [hello@alemolamg.com](mailto:hello@alemolamg.com) o visita [alemolamg.com](https://alemolamg.com)
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alemolamg&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemolamg&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alemolamg&theme=github_dark" alt="GitHub Stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alemolamg&theme=github_dark" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
